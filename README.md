@@ -17,7 +17,9 @@ But don't worry I have found a solution for this kind of frustration, let's dive
 3. Find the message that you want, and then click on the `...` right next to your desired message -> `More actions` -> `Save Message`. 
 
 This way, your message will be saved on the `My Saved Messages` App
-![Save the message into My Saved Messages](images/find_and_save.PNG)
 
-4. Goto `Chat` -> `My Saved Messages` -> Select the message that you want to jump -> Click on `Original Message` and Voila!!!
-![Save the message into My Saved Messages](images/jump_to_conversation.PNG)
+![Save the message into My Saved Messages](https://github.com/lengocthuong15/MS-Teams-Trick/blob/main/images/find_and_save.png)
+
+4. Goto `Chat` -> `My Saved Messages` -> Select the message that you want to jump -> Click on `Original Message` and Voila!
+
+![Save the message into My Saved Messages](https://github.com/lengocthuong15/MS-Teams-Trick/blob/main/images/jump_to_conversation.png)
